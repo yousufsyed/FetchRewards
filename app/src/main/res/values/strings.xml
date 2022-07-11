@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FetchRewards</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="rewards_fragment_label">Rewards List</string>
+
+    <string name="retry">Retry</string>
+    <string name="network_error_message">"Unable to connect to network"</string>
+    <string name="generic_error_message">Ops… something went wrong. Please check your network and try again</string>
+    <string name="no_results_found">No results found</string>
+</resources>
